@@ -1,8 +1,8 @@
 ## *Hello Im Ryuuka Botz* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="center">
 <img src="https://telegra.ph/file/d745408ee71a70c27c661.jpg" alt="RyuukaBotz" width="500"/>
+<a href="https://youtube.com/channel/UCjxavxEQa1Wd9A4J9tOmATA"><img src="https://img.shields.io/badge/YouTube-Ryuuka%20Botz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCjxavxEQa1Wd9A4J9tOmATA" /><br>
 <a href="https://www.instagram.com/ryuukabotz8" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://youtube.com/channel/UCjxavxEQa1Wd9A4J9tOmATA" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a href="https://wa.me/6287863200063" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 -----
