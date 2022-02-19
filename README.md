@@ -1,4 +1,4 @@
-## *Hello Im Ryuuka Botz* 👋
+## *Hello Im Ryuuka Botz* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="center">
 <img src="https://telegra.ph/file/d745408ee71a70c27c661.jpg" alt="RyuukaBotz" width="500"/>
 <a href="https://www.instagram.com/ff.ardy_store" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -7,12 +7,12 @@
 
 -----
 
-### 📶 My Website
+## ```My Website``` 📪
 <a href="https://ryuu-apii.herokuapp.com" target="_blank">Rest Api RyuBotz</a>
 
 -----
 
-## ```Stats``` ⚡
+## ```Stats``` 📊
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=YdzAja&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=YdzAja&layout=compact&theme=nightowl)
